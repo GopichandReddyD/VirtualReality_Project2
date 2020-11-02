@@ -1,7 +1,7 @@
 # VirtualReality_CS_5331_Project_1
 ## Mission_Mars.......ElonMusk's Idea
 ### Abstract
-The major aim of this project is to create a game which resembles the Elon Musk's idea of multi-planetary living. This game mainly concentrates on travelling to mars and creating a ecosystem where human beings can live their lives.
+The major aim of this project is to create a game which resembles the Elon Musk's idea of multi-planetary living. This game mainly concentrates on traveling to mars and creating a ecosystem where human beings can live their lives.
 
 There are different levels of developing this ecosystem in this game which will be explained below.
 
