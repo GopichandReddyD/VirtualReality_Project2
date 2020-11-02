@@ -29,11 +29,17 @@ Phase4: In progress
 ### Objects:
  
 • Rocket
+
 • Space craft
+
 • Inter-planetary objects
+
 • Astronaut 
+
 • Building
+
 • Biodome
+
 • Plants......,Etc
 
 ### Screenshots:
@@ -43,9 +49,11 @@ Phase4: In progress
 
 ### Team Contribution
 
-Development: We are planning in splitting work with respect to phases.
-Testing: Initial testing will be done by respective phase developers.
-Final Testing: Final testing will be done by interchanging phases.
+• Development: We are planning in splitting work with respect to phases.
+
+• Testing: Initial testing will be done by respective phase developers.
+
+• Final Testing: Final testing will be done by interchanging phases.
 
  
 ### Conclusion:
