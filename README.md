@@ -36,6 +36,12 @@ Phase4: In progress
 • Biodome
 • Plants......,Etc
 
+### Team Contribution
+
+Development: We are planning in splitting work with respect to phases.
+Testing: Initial testing will be done by respective phase developers.
+Final Testing: Final testing will be done by interchanging phases.
+
  
 ### Conclusion:
 
