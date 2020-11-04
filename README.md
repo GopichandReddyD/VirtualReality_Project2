@@ -15,6 +15,7 @@ Initially considerable amount of people will move to mars to create human liveli
 ![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/Sketch1.jpeg)
 
 Discussed phases:
+
 Phase1: To develop biosphere(oxygen, heat, gravity) for living by placing the area in a Biodome.
 ![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/bioDome.jpeg)
 
