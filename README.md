@@ -7,7 +7,7 @@ There are different levels of developing this ecosystem in this game which will 
 
 ### Introduction:
 
-By seeing the growing population we guess elon's idea of moving to mars may come true in near future and we are trying to visualize his vision in the form of a game. This game goes in different levels/phases where ecosystem for human living will be developed eventually. Every phase will have metrics which should be set to the expected value of human living to pass the mission.
+By seeing the growing population and global warming we guess elon's idea of moving to mars may come true in near future and we are trying to visualize his vision in the form of a game. This game goes in different levels/phases where ecosystem for human living will be developed eventually. Every phase will have metrics which should be set to the expected value of human living to pass the mission.
 
 Initially considerable amount of people will move to mars to create human livelihood in phases. We have some discussed phases now and will improve accordingly 
 
