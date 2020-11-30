@@ -26,6 +26,8 @@ Phase1: To develop a space station for temporary living and monitoring
 
 Phase2: To develop biosphere(oxygen, heat, gravity) for living by placing the area in a Biodome.
 ![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/bioDome.jpeg)
+![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/4.PNG)
+![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/5.PNG)
 
 Phase3: To develop livelihood which includes farming, building houses and Industries.
 ![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/farms.jpeg)
@@ -34,9 +36,7 @@ Phase3: To develop livelihood which includes farming, building houses and Indust
 ![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/Sketch4.jpeg)
 
 Extra objects:
-![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/4.PNG)
 ![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/5.PNG)
-![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/6.PNG)
 ![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/7.PNG)
 
 ### Description:
