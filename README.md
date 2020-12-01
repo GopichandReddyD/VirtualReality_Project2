@@ -61,8 +61,6 @@ Extra objects:
 
 • Biodome
 
-• Plants......,Etc
-
 ### Screenshots:
   ![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/Mars.jpeg)
   ![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/Rocket.jpeg)
@@ -79,4 +77,4 @@ Extra objects:
  
 ### Conclusion:
 
-This project will give us oppurtunity in learning to design virtual spaces. Demonstrating an idea using 3D view will be the best part in future.
+This project will give us oppurtunity in learning to design virtual spaces and Demonstrating an idea using 3D view will be the best part in future.
