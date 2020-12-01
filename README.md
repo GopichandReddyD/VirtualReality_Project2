@@ -1,5 +1,7 @@
 # VirtualReality_CS_5331_Project_2
 ## Mission_Mars.......ElonMusk's Idea
+### Demo Link
+https://youtu.be/fJDm8rz_Xsg
 ### Abstract
 The major aim of this project is to create a game which resembles the Elon Musk's idea of multi-planetary living. This game mainly concentrates on traveling to mars and creating a ecosystem where human beings can live their lives.
 
@@ -7,30 +9,37 @@ There are different levels of developing this ecosystem in this game which will 
 
 ### Introduction:
 
-By seeing the growing population and global warming we guess elon's idea of moving to mars may come true in near future and we are trying to visualize his vision in the form of a game. This game goes in different levels/phases where ecosystem for human living will be developed eventually. Every phase will have metrics which should be set to the expected value of human living to pass the mission.
+By seeing the growing population and global warming we guess elon's idea of moving to mars may come true in near future and we are trying to visualize his vision in the form of a game. This game goes in different levels/phases where ecosystem for human living will be developed eventually. This game mainy concentrates on giving a mars experience to the user. There are no points or missions in this game.
 
 Initially considerable amount of people will move to mars to create human livelihood in phases. We have some discussed phases now and will improve accordingly 
-
+Reference:
 ![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/base.jpeg)
+Sketch:
 ![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/Sketch1.jpeg)
+outcome:
+![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/8.PNG)
 
 Discussed phases:
+Phase1: To develop a space station for temporary living and monitoring
+![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/3.PNG)
+![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/9.PNG)
+![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/1.PNG)
+![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/2.PNG)
 
-Phase1: To develop biosphere(oxygen, heat, gravity) for living by placing the area in a Biodome.
+Phase2: To develop biosphere(oxygen, heat, gravity) for living by placing the area in a Biodome.
 ![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/bioDome.jpeg)
+![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/4.PNG)
+![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/5.PNG)
 
-Phase2: To develop livelihood which includes farming, building houses and Industries.
-
+Phase3: To develop livelihood which includes farming, building houses and Industries.
 ![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/farms.jpeg)
 ![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/Sketch2.jpeg)
 ![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/Sketch3.jpeg)
 ![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/Sketch4.jpeg)
 
-Phase3: To develop space port to welcome more people from earth.
-![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/port.jpeg)
-![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/Sketch5.jpeg)
-
-Phase4: In progress
+Extra objects:
+![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/5.PNG)
+![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/7.PNG)
 
 ### Description:
  
@@ -52,8 +61,6 @@ Phase4: In progress
 
 • Biodome
 
-• Plants......,Etc
-
 ### Screenshots:
   ![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/Mars.jpeg)
   ![alt text](https://github.com/GopichandReddyD/VirtualReality_Project2/blob/master/Screenshots/Rocket.jpeg)
@@ -70,4 +77,4 @@ Phase4: In progress
  
 ### Conclusion:
 
-This project will give us oppurtunity in learning to design virtual spaces. Demonstrating an idea using 3D view will be the best part in future.
+This project will give us oppurtunity in learning to design virtual spaces and Demonstrating an idea using 3D view will be the best part in future.
